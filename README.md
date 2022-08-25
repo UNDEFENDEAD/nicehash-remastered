@@ -17,7 +17,7 @@ NiceHash Miner is a continuation of NiceHash Miner Legacy. This version is inten
 
 ![NHM_screenshot](https://user-images.githubusercontent.com/112027944/186778871-9c9846e2-cd4c-4473-b9fe-97608cb54b9b.png)
 
-#Requirements
+# Requirements
 Windows 10 or newer operating system 64-bit
 [Note: Windows 10 is recommended and will provide you a much better user experience]
 For CPU mining a modern CPU with AES support
